@@ -1,0 +1,5 @@
+
+*.py~
+
+data/*.nc
+results/*_mapped.csv
