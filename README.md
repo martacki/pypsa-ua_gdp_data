@@ -9,7 +9,8 @@ This short script is developed as pre-processing workstep to be used in an exten
 
 **Output**:
 * _ppp_2013_1km_Aggregated_and_GDP_per_capita_PPP_1990_2015_v2_mapped.csv_: file that maps the pypsa-eur onshore regions in UA and MD to it's associated 0.6*GDP+0.4*POP value.
-* (_previously_) _GDP_PPP_30arcsec_v3_mapped.csv_: file that maps the pypsa-eur onshore regions in UA and MD to it's associated GDP value.
+
+(_previously_) _GDP_PPP_30arcsec_v3_mapped.csv_: file that maps the pypsa-eur onshore regions in UA and MD to it's associated GDP value.
 
 **Requirements**:
 * python
